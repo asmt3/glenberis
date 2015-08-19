@@ -1,0 +1,1 @@
+<script type="text/javascript" src="http://www.booking.com/general.html?tmpl=bookit;aid=330843;lang=en-us;hotel_id=1033899;cc1=gb;hotel_page=glenberis"></script>
